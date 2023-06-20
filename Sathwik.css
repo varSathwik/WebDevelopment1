@@ -1,0 +1,13 @@
+body {
+background-color: aqua;
+}
+
+h1 {
+color: red;
+border-style: dashed;
+border-color: rgb(0, 99, 3);
+}
+
+h2 {
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
